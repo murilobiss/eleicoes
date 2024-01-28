@@ -53,12 +53,12 @@ Sua contribuição é essencial para enriquecer este projeto. Sinta-se à vontad
 - Abra um Pull Request descrevendo suas alterações e propostas.
 
 
-## 🛠️ Construído com
+## 🛠️ TO DO
 
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
+- Dicionário com os candidatos e "apelidos".
+- Dicionário com os respectivos partidos.
+- Extração e limpeza dos dados dos candidatos (bens).
+- Consolidação de mais visuais gráficos para análise.
 
 ## 📌 Versão
 
