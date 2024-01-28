@@ -49,8 +49,8 @@ Sua contribuição é essencial para enriquecer este projeto. Sinta-se à vontad
    ```bash
    git push origin nome-da-sua-branch
 
-4. **Abra um Pull Request:**
-   Abra um Pull Request descrevendo suas alterações e propostas.
+5. **Abra um Pull Request:**
+- Abra um Pull Request descrevendo suas alterações e propostas.
 
 
 ## 🛠️ Construído com
@@ -74,6 +74,3 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 ## 📄 Licença
 
 Este projeto está sob domínio público.
-
----
-[Murilo Biss](https://www.linkedin.com/in/murilobiss/) 😊
