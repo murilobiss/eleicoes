@@ -6,3 +6,9 @@
 
 # Ignorar diretório .ipynb_checkpoints/
 .ipynb_checkpoints/
+
+# Ignorar pasta de extração
+extracao/
+
+# Ignorar cache
+__pycache__/
