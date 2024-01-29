@@ -1,2 +1,8 @@
+# Ignorar arquivos .csv
 *.csv
+
+# Ignorar arquivos .html
 *.html
+
+# Ignorar diretório .ipynb_checkpoints/
+.ipynb_checkpoints/
